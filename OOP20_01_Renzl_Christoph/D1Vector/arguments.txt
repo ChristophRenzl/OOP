@@ -1,0 +1,4 @@
+Programmname=D1Vector.exe
+Argument_1=Max
+Argument_2=Mustermann
+Argument_3=1234
