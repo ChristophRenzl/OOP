@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{fb596df7-df5d-4437-b943-f4882687f26c}</ProjectGuid>
-    <RootNamespace>OOP2001RenzlChristoph</RootNamespace>
+    <ProjectGuid>{d14edba5-23a7-456c-b5a0-52534423a8ea}</ProjectGuid>
+    <RootNamespace>Skat</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="OOP20_01_Renzl_Christoph.cpp" />
+    <ClCompile Include="Skat.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

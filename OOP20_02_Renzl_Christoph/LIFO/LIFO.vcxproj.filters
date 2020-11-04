@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="OOP20_01_Renzl_Christoph.cpp">
+    <ClCompile Include="LIFO.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
